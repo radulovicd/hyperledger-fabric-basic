@@ -1,0 +1,5 @@
+{
+    "index":{"fields":["docType", "color", "owner"]},
+    "name":"indexColorOwner",
+    "type":"json"
+}
